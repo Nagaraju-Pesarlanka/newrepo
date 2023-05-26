@@ -6,4 +6,4 @@ feature not found
 task completed
 changes are approved by user1
 approval required
-cahnges made for second repo
+cahnges made for second cloning

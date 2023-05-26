@@ -2,9 +2,7 @@ this is 10th file
 
 bug fixed by ramya
 new feature added
-
 this is bug fix done by user 2
 feature not found
-
-
 task completed
+changes are approved by user1

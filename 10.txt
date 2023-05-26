@@ -2,3 +2,6 @@ this is 10th file
 this is bug fix done by user 2
 feature not found
 approval required
+bug fixed by ramya
+new feature added
+changes are approved by user1
